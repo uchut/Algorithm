@@ -10,6 +10,7 @@
 ## Participants
 관리감독
 - 이재원(https://github.com/220v-K)
+
 스터디원
 - 김두현(https://github.com/uchut)
 - 백동민(https://github.com/dongmin0204)
