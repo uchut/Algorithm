@@ -4,7 +4,7 @@
 
 ## ⏰ Time & Period
 - 기간 : 6월 4째주 ~ 8월 4째주+@
-- meeting : 매주 월요일 7:00pm
+- meeting : 매주 화요일 7:00pm
 
 
 ## Participants
